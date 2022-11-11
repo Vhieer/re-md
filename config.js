@@ -57,8 +57,8 @@ global.fla = [
 
 
 // Sticker WM
-global.packname = `\t\t「 Cʀᴇᴀᴛᴇᴅ Bʏ 𝓡𝓮𝓮𝔂𝓪 <3 」\n\t\t「 𝕊𝕖𝕔𝕣𝕖𝕥 𝕄𝔻 」\n\t\t「 SC: github.com/Vhieer/ 」\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
-global.author = ''
+global.packname = `「 𝕊𝕖𝕔𝕣𝕖𝕥 𝕄𝔻  」`
+global.author = '𝓡𝓮𝓮𝔂𝓪 <3'
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
